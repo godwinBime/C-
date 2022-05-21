@@ -1,0 +1,9 @@
+# ninja log v5
+1	1282	6748281006344961	CMakeFiles/CMakeConfigDemo.dir/CMakeConfigDemo.cpp.obj	3a4e31d4ed1cb6e3
+1284	1385	6748281007399618	CMakeConfigDemo.exe	355b9e0359634b14
+0	6	0	clean	8c45b54705a541e8
+1	1271	6748281127146090	CMakeFiles/CMakeConfigDemo.dir/CMakeConfigDemo.cpp.obj	3a4e31d4ed1cb6e3
+1271	1363	6748281128088043	CMakeConfigDemo.exe	355b9e0359634b14
+1	5	0	clean	8c45b54705a541e8
+1	1412	6748281299449495	CMakeFiles/CMakeConfigDemo.dir/CMakeConfigDemo.cpp.obj	3a4e31d4ed1cb6e3
+1412	1507	6748281300435546	CMakeConfigDemo.exe	355b9e0359634b14

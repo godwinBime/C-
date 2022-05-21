@@ -1,0 +1,3 @@
+C:/RESEARCH-AND-PROJECT/PROJOCTS/C++/CMakeConfigDemo/out/build/x64-release/CMakeFiles/CMakeConfigDemo.dir
+C:/RESEARCH-AND-PROJECT/PROJOCTS/C++/CMakeConfigDemo/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/RESEARCH-AND-PROJECT/PROJOCTS/C++/CMakeConfigDemo/out/build/x64-release/CMakeFiles/rebuild_cache.dir
