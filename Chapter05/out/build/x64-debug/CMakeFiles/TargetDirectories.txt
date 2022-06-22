@@ -1,0 +1,3 @@
+C:/RESEARCH-AND-PROJECT/PROJECTS/C++/Chapter05/out/build/x64-debug/CMakeFiles/Chpater05.dir
+C:/RESEARCH-AND-PROJECT/PROJECTS/C++/Chapter05/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/RESEARCH-AND-PROJECT/PROJECTS/C++/Chapter05/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
